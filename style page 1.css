@@ -1,0 +1,58 @@
+*,body {
+             margin-left: 5%;
+}
+
+
+P2 {color: white}
+P2 {background-color:red ;}
+P3 {color:white;}
+P3{background-color:red;}
+
+
+P44 {font-style:italic;}
+P44 {border-radius: 0%;}
+P44 {background-color: red ;}
+P44 {color: white;}
+H2A {color: black;}
+H2A {font-style: italic;}
+
+a {color: white;
+ background-color:red;
+
+
+}
+
+.GRUPOS {color:black ;
+              font-style: italic;}
+
+.QUADRAD0 {
+       width: 222px;
+       height: 110px;
+       background-color:red;
+       border: 1px;
+
+       color:black ;
+       font-size: 18px;
+
+   
+    }
+body   {background-color: red;}
+       
+.PRODUTOS {
+    width :300px;
+    height: 100x;
+    background-color:red;
+    border: 1px;
+
+    color:white;
+    font-style:italic;
+}
+.TITULO {
+width: 300PX;
+height: 50PX;
+background-color:brown;
+border: 10PX;
+margin-left: 110px;}
+
+.COPYRIGHT {margin-bottom: 30px ;
+}
