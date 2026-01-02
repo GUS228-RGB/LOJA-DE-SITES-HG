@@ -15,3 +15,29 @@ body {  background-image: url(ChatGPT\ Image\ 31\ de\ dez.\ de\ 2025\,\ 12_21_40
  display: block;
     margin-left: 47%;
 }
+.uu{
+     font-style: unset;
+        margin: 30PX;
+        border: 3px solid rgb(122, 25, 25);
+        border-radius: 10PX;
+        box-sizing: content-box;
+        width: 230PX;
+        height: 49PX;
+        align-content: center;
+              
+        background-image:url(ChatGPT\ Image\ 31\ de\ dez.\ de\ 2025\,\ 12_21_40.png);
+
+        margin-left: 40%;
+}
+
+.u2 {     font-style: unset;
+        margin: 30PX;
+        border: 3px solid rgb(255, 0, 0);
+        border-radius: 10PX;
+        box-sizing: content-box;
+        width: 230PX;
+        height: 49PX;
+        align-content: center;
+              margin-left: 80%;
+        background-image:url(ChatGPT\ Image\ 31\ de\ dez.\ de\ 2025\,\ 12_21_40.png);
+}
